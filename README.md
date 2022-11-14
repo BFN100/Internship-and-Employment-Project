@@ -1,7 +1,7 @@
 # Internship-and-Employment-Project
 It was my final project to graduate from the New Media Programming College, we did it in a group of 5.
 
-I worked with my colleagues to make this project work, but I made the prototype chosen by the client, I participated in the documentation and the front-end so I wanted to put here the experience I gained and what were the results obtained.
+I worked with my colleagues to make this project work, but I made the prototype chosen by the client, I participated in the design, documentation and the front-end so I wanted to put here the experience I gained and what were the results obtained.
 
 I made my prototype in Figma, based on the needs of our client, according to the needs of the users of this system and I also thought about the ease of creating the project on our side (programmers).
 
