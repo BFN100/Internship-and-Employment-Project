@@ -23,7 +23,7 @@ This image shows the general of my design:
 
 ![image](https://user-images.githubusercontent.com/90284053/201555372-2f1581d8-88dd-42b9-b744-cf6d4d8585b2.png)
 
-As imagens abaixo mostrarao algumas telas para demonstrar como ficou, mas indico muito que assista os videos, sao curtos e mostram o resultado final entregue ao cliente:
+The images below show some screens to demonstrate how it turned out, but I highly recommend you watch the videos, they are short and show the final result delivered to the customer:
 
 ![image](https://user-images.githubusercontent.com/90284053/201555519-349aa789-0f06-40ce-84ad-2cafddfbf2a4.png)
 ![image](https://user-images.githubusercontent.com/90284053/201555544-8380bdd0-9b49-46b2-b8fd-6df14cf5417d.png)
